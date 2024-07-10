@@ -1,6 +1,4 @@
-
-
-
+/* ====== СКРЫТЬ НАСТРОЙКИ ====== */
 (function () {
     'use strict';	
 	function main() {	
